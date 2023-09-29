@@ -1,11 +1,3 @@
-#gazap
-# botao de iniciar chat
-# popup para entrar no site
-# quando entrar no chat:( aparece para todos)
-    # a mensagem que você entrou no chat
-    # o campo e o botão de enviar mensagem
-# a cada mensagem que envia ( aparece para todos)
-    # nome: texto da mensagem
 import flet as ft
 
 
